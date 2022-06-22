@@ -1,4 +1,4 @@
-# Data-Science21
+# DataScienceIneuronTasks
 
 
 data science, readme file
